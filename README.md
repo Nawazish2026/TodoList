@@ -4,7 +4,7 @@ A simple and intuitive To-Do List app built with React, HTML, CSS, and JavaScrip
 Organize tasks effortlessly, track progress, and boost productivity with a clean and user-friendly interface.
 
 ## Features
-- Add, edit, and delete tasks
+- Add and delete tasks
 - Mark tasks as complete
 - Responsive design
 
